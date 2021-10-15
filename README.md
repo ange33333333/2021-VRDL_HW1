@@ -1,6 +1,6 @@
 # 2021-VRDL_HW1
 
->📋  A template README.md for code accompanying a Machine Learning paper
+Visual Recognition using Deep Learning HW1
 
 # My Paper Title
 
