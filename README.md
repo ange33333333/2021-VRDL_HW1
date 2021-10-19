@@ -2,13 +2,23 @@
 
 Visual Recognition using Deep Learning HW1
 
-## Hardware
+##  Hardware
 
-To install requirements:
+The following specs were used to create the original solution.
 
-```setup
-pip install -r requirements.txt
+* Windows 10 Home
+* AMD Ryzen™ 7 4800H Processor 2.9 GHz
+* NVIDIA® GeForce RTX™ 3050 Laptop GPU 4GB GDDR6
+
+## Requirements
+
+```train
+# python version: Python 3.7.11
+pip3 install -r requirements.txt
 ```
+
+## Reproducing Submission
+
 
 >📋  Describe how to set up the environment, e.g. pip/conda/docker commands, download datasets, etc...
 
