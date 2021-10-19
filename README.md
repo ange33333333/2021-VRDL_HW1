@@ -2,7 +2,7 @@
 
 Visual Recognition using Deep Learning HW1
 
-## Requirements
+## Hardware
 
 To install requirements:
 
