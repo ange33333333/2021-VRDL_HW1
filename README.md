@@ -10,6 +10,9 @@ The following specs were used to create the original solution.
 * AMD Ryzen™ 7 4800H Processor 2.9 GHz
 * NVIDIA® GeForce RTX™ 3050 Laptop GPU 4GB GDDR6
 
+## Reproducing Submission
+📋  Describe how to set up the environment, e.g. pip/conda/docker commands, download datasets, etc...
+
 ## Requirements
 
 ```train
@@ -17,10 +20,32 @@ The following specs were used to create the original solution.
 pip3 install -r requirements.txt
 ```
 
-## Reproducing Submission
+## Dataset Preparation
+You can download the data on the Codalab website：https://competitions.codalab.org/competitions/35668?secret_key=09789b13-35ec-4928-ac0f-6c86631dda07#participate-get_starting_kit
 
+Label 
+```label
+  training_labels.txt
+```
 
->📋  Describe how to set up the environment, e.g. pip/conda/docker commands, download datasets, etc...
+Data
+```data
+  +- training_images
+    +- 0003.jpg
+    +- 0008.jpg
+    ...
+  +- testing_images
+    +- 0001.jpg
+    +- 0002.jpg
+    ...
+```
+
+Classes predict
+
+```predict
+  classes.txt
+  testing_img_order.txt
+```
 
 ## Training
 
