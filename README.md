@@ -57,7 +57,13 @@ python train.py --input-data <path_to_data> --alpha 10 --beta 20
 
 >📋  Describe how to train the models, with example commands on how to train the models in your paper, including the full training procedure and appropriate hyperparameters.
 
-## Evaluation
+## Models
+
+You can download pretrained models here:
+
+- https://drive.google.com/drive/folders/16TcxzidI0TjPzZLW0Jis2WBnYslN9mQU?usp=sharing
+
+## Testing
 
 To evaluate my model on ImageNet, run:
 
@@ -66,12 +72,6 @@ python eval.py --model-file mymodel.pth --benchmark imagenet
 ```
 
 >📋  Describe how to evaluate the trained models on benchmarks reported in the paper, give commands that produce the results (section below).
-
-## Models
-
-You can download pretrained models here:
-
-- https://drive.google.com/drive/folders/16TcxzidI0TjPzZLW0Jis2WBnYslN9mQU?usp=sharing
 
 
 ## Results
