@@ -59,7 +59,7 @@ $ python3 Train.py
 
 You can download models here:
 
-- https://drive.google.com/drive/folders/16TcxzidI0TjPzZLW0Jis2WBnYslN9mQU?usp=sharing
+- 
 
 ## Make Submission
 
