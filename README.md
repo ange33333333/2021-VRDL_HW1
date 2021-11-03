@@ -49,7 +49,7 @@ Classes predict
 
 ## Training
 
-You need to download Prepocessing.py, and then run the model by following:
+You need to download Preprocessing.py, and then run the model by following:
 
 ```train
 $ python3 Train.py
@@ -59,7 +59,7 @@ $ python3 Train.py
 
 You can download models here:
 
-- 
+- https://drive.google.com/drive/u/1/folders/14ik-vMLMJNqJ781JZSzMhLXi6fjwUPwn
 
 ## Make Submission
 
