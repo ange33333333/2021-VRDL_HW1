@@ -14,7 +14,7 @@ The following specs were used to create the original solution.
 
 *   [Requirements](#Requirements)
 *   [Training](#Training)
-*   [Make_Submission](#Make_Submission)
+*   [Make Submission](#Make_Submission)
 
 
 ## Requirements
