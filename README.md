@@ -11,7 +11,7 @@ The following specs were used to create the original solution.
 * NVIDIA® GeForce RTX™ 3050 Laptop GPU 4GB GDDR6
 
 ## Reproducing Submission
-📋  Describe how to set up the environment, e.g. pip/conda/docker commands, download datasets, etc...
+[TOC]
 
 ## Requirements
 
