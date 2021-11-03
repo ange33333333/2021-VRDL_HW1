@@ -13,6 +13,7 @@ The following specs were used to create the original solution.
 ## Reproducing Submission
 
 *   [Requirements](#Requirements)
+*   [Dataset Preparation](#Dataset_Preparation)
 *   [Training](#Training)
 *   [Make Submission](#Make_Submission)
 
