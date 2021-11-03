@@ -13,8 +13,7 @@ The following specs were used to create the original solution.
 ## Reproducing Submission
 
 *   [Requirements](#Requirements)
-*   [Dataset Preparation](#Dataset_Preparation)
-*   [Download Models](#TDownload_Models)
+*   [Download Models](#Download_Models)
 *   [Make Submission](#Make_Submission)
 
 
