@@ -14,7 +14,7 @@ The following specs were used to create the original solution.
 
 *   [Requirements](#Requirements)
 *   [Dataset Preparation](#Dataset_Preparation)
-*   [Training](#Training)
+*   [Download Models](#TDownload_Models)
 *   [Make Submission](#Make_Submission)
 
 
@@ -60,7 +60,7 @@ You need to download Preprocessing.py, and then run the model by following:
 $ python3 Train.py
 ```
 
-## Models
+## Download Models
 
 You can download my models here:
 
