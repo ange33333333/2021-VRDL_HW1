@@ -11,7 +11,11 @@ The following specs were used to create the original solution.
 * NVIDIA® GeForce RTX™ 3050 Laptop GPU 4GB GDDR6
 
 ## Reproducing Submission
-[TOC]
+
+*   [Requirements](#Requirements)
+*   [Training](#Training)
+*   [Make Submission](#Make Submission)
+
 
 ## Requirements
 
@@ -57,7 +61,7 @@ $ python3 Train.py
 
 ## Models
 
-You can download models here:
+You can download my models here:
 
 - https://drive.google.com/drive/u/1/folders/14ik-vMLMJNqJ781JZSzMhLXi6fjwUPwn
 
