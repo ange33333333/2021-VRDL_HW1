@@ -13,8 +13,8 @@ The following specs were used to create the original solution.
 ## Reproducing Submission
 
 *   [Requirements](#Requirements)
-*   [Download Models](#DownloadModels)
-*   [Make Submission](#MakeSubmission)
+*   [Download Models](#Download Models)
+*   [Make Submission](#Make Submission)
 
 
 ## Requirements
