@@ -13,8 +13,8 @@ The following specs were used to create the original solution.
 ## Reproducing Submission
 
 *   [Requirements](#Requirements)
-*   [Download_Models](#Download_Models)
-*   [Make_Submission](#Make_Submission)
+*   [Download Models](#Download-Models)
+*   [Make Submission](#Make-Submission)
 
 
 ## Requirements
@@ -59,13 +59,13 @@ You need to download Preprocessing.py, and then run the model by following:
 $ python3 Train.py
 ```
 
-## Download_Models
+## Download Models
 
 You can download my models here:
 
 - https://drive.google.com/drive/u/1/folders/14ik-vMLMJNqJ781JZSzMhLXi6fjwUPwn
 
-## Make_Submission
+## Make Submission
 
 You can get the predict result by following:
 
