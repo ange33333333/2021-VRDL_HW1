@@ -34,7 +34,7 @@ def train(model, criterion, optimizer):
     train_all_accuracy = []
     val_all_loss = []
     val_all_accuracy = []
-    epoch_num = 80
+    epoch_num = 100
     batch_size = 16
 
     training_data = BirdDataset(
