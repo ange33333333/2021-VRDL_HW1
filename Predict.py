@@ -1,7 +1,7 @@
 from torch.utils.data import DataLoader
 import torch
 from torch.autograd import Variable
-from Prepocessing import BirdDataset
+from Preprocessing import BirdDataset
 import torchvision.transforms as transforms
 import os
 
